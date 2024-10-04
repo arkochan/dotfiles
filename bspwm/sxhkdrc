@@ -1,0 +1,202 @@
+#  ███████╗██╗  ██╗██╗  ██╗██╗  ██╗██████╗ ██████╗  ██████╗
+#  ██╔════╝╚██╗██╔╝██║  ██║██║ ██╔╝██╔══██╗██╔══██╗██╔════╝
+#  ███████╗ ╚███╔╝ ███████║█████╔╝ ██║  ██║██████╔╝██║     
+#  ╚════██║ ██╔██╗ ██╔══██║██╔═██╗ ██║  ██║██╔══██╗██║     
+#  ███████║██╔╝ ██╗██║  ██║██║  ██╗██████╔╝██║  ██║╚██████╗
+#  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+#	z0mbi3			https://github.com/gh0stzk/dotfiles
+#
+
+# Show help
+F1
+	OpenApps --KeyHelp
+
+F2
+	OpenApps --TmuxKeyHelp
+#|||----- Applications -----|||#
+
+# Open Terminal (alacritty)
+super + Return
+	OpenApps --terminal
+
+# Open floating Terminal
+super + alt + Return
+	OpenApps --floating
+
+# Application menu
+super + @space
+	OpenApps --menu
+
+#####
+super + shift + x
+  bspc rule -a firefox desktop=^3
+
+# Apps (browser, editor, filemanager)
+shift + alt + {b,g,n}
+	OpenApps {--browser,--editor,--filemanager}
+
+# Terminal apps (ranger, nvim, ncmpcpp)
+shift + alt + {r,v,k}
+	OpenApps {--ranger,--nvim,--music}
+
+# Pavucontrol
+shift + alt + p
+	OpenApps --soundcontrol
+
+
+#|||----- System Keybindings -----|||#
+
+# Theme Selector
+alt + @space
+	RiceSelector
+
+#Terminal Selector
+super + alt + t
+	Term --selecterm
+
+# jgmenu
+~button3
+  xqp 0 $(xdo id -N Bspwm -n root) && jgmenu --csv-file=~/.config/bspwm/src/jgmenu/menu.txt --config-file=~/.config/bspwm/jgmenurc
+
+# Scratchpad
+super + alt + o
+	tdrop -a -w 70% -h 35% -y 0 -x 15%  --class scratch alacritty --class=scratch
+
+# Power off, Reboot, Log out, Lockscreen, kill an app
+ctrl + super + alt + {p,r,q,l,k}
+	{systemctl poweroff, systemctl reboot,bspc quit,physlock -d,xkill}
+
+# Hide/Show Bar (Polybar and/or eww)
+super + alt + {h,u}
+	HideBar {-h,-u}
+
+# Change transparency on focused window
+ctrl + alt + {plus,minus,t}
+	picom-trans {-c -o +3,-c -o -1,-c -d}
+
+# Random wallpaper
+super + alt + w
+	WallSelect
+
+# Mount Android phones
+super + alt + a
+	OpenApps --android
+
+# Network Manager
+super + alt + n
+	OpenApps --netmanager
+
+# Clipboard
+super + alt + c
+	OpenApps --clipboard
+
+# Screenshot
+super + alt + s
+	OpenApps --screenshot
+
+# Bluetooth
+super + alt + b
+	OpenApps --bluetooth
+
+# PowerMenu
+super + alt + p
+	OpenApps --powermenu
+
+# Manage brightness
+XF86MonBrightness{Up,Down}
+    sh Brightness {up,down}
+
+# Volume control
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+	Volume{ --inc, --dec, --toggle}
+
+# Music Control
+XF86Audio{Next,Prev,Play,Stop}
+	MediaControl {--next,--previous,--toggle,--stop}
+
+
+#|||----- Bspwm hotkeys -----|||#
+
+# Reload BSPWM
+super + alt + r
+	bspc wm -r
+
+# close and kill
+super + {_,shift + }q
+	bspc node -{c,k}
+	
+# Reload Keybindings
+super + alt + Escape
+	pkill -USR1 -x sxhkd; dunstify -u low -i ~/.config/bspwm/assets/reload.svg 'sxhkd' 'The configuration file has been reloaded successfully!'
+
+#####
+
+# alternate between the tiled and monocle layout
+super + m
+	bspc desktop -l next
+
+# set the window state
+super + {t,shift + t,s,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+# set the node flags
+ctrl + alt {m,x,s,p}
+	bspc node -g {marked,locked,sticky,private}
+
+# Hide/Unhide Window
+ctrl + alt + h
+	BspHideNode
+
+#####
+
+
+# Rotate 90 on parent 
+super + shift + r 
+  bspc node @parent -R 90
+#####
+
+# Change focus of the Node or Swap Nodes
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# Switch workspace
+
+super + ctrl + {Left,Right}
+	bspc desktop -f {prev,next}.local
+# focus the last node/desktop
+super + {grave,Tab}
+	bspc {node,desktop} -f last
+
+# focus to the given desktop monitor 1
+super + shift + {1-6}
+	bspc {node -d} '^{1-6}' '--follow'
+# send to the given desktop monitor 1
+super  + {1-6}
+	bspc {desktop -f} '^{1-6}' '--follow'
+
+
+#####
+	
+# expand/contract a window 
+control + super + shift + {h,j,k,l}
+  bspc node -z {left -20 0 || bspc node -z right -20 0, \
+                bottom 0 20 || bspc node -z top 0 20,\
+                top 0 -20 || bspc node -z bottom 0 -20,\
+                right 20 0 || bspc node -z left 20 0}
+
+# expand/contract a window At larger step 
+control + alt + shift + {h,l}
+  bspc node -z {left -360 0 || bspc node -z right -360 0, \
+                right 360 0 || bspc node -z left 360 0}
+# move a floating window
+alt + shift {Left,Down,Up,Right}
+	bspc node -v {-10 0,0 10,0 -10,10 0}
+
+## move mouse with hjkl using xdotool
+## activate with super escape
+
+super + ctrl {h,j,k,l}
+     xdotool mousemove_relative -- {-20 0 , 0 20, 0 -20, 20 0}
+#
+# super + ctrl + shift {h,j,k,l}
+#      xdotool mousemove_relative -- {-40 0 , 0 40, 0 -40, 40 0}

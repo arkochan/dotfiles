@@ -1,0 +1,5 @@
+z_arg=$1
+
+cd "$(zoxide query "$z_arg")"
+
+nvim .
