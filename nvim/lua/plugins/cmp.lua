@@ -1,6 +1,5 @@
 return {
 	"hrsh7th/nvim-cmp",
-	---@param opts cmp.ConfigSchema
 	dependencies = { "hrsh7th/cmp-emoji" },
 	opts = function(_, opts)
 		local has_words_before = function()
@@ -10,18 +9,81 @@ return {
 		end
 		local cmp = require("cmp")
 
+		local ls = require("luasnip")
+		local s = ls.snippet
+		local t = ls.text_node
+		local i = ls.insert_node
+		local f = ls.function_node
+
+		local function file_name_without_extension()
+			local file_name = vim.fn.expand("%:t:r")
+			return file_name
+		end
+
+		ls.add_snippets("typescriptreact", {
+			s("rf", {
+				t({
+					'import react from "react";',
+					'import { cn } from "@/utils/cn";',
+					"",
+					"export default function ",
+				}),
+				f(file_name_without_extension),
+				t({
+					"({",
+					'  classname = "",',
+					"}: {",
+					"  classname?: string;",
+					"}) {",
+					"  return ",
+				}),
+				t('<div className={cn("", classname)}>'),
+				i(1, ""),
+				t("</div>"),
+				t({
+					";",
+					"}",
+				}),
+			}),
+		})
+
+		-- Custom sorting
+		opts.sources = cmp.config.sources({
+			{ name = "luasnip", priority = 90 }, -- Adjust the name if you're using a different snippet engine
+			{ name = "nvim_lsp", priority = 75 },
+			{ name = "buffer", priority = 50 },
+			{ name = "path", priority = 25 },
+			-- Add other sources you're using with appropriate priorities
+		})
+		opts.sorting = {
+			priority_weight = 2,
+			comparators = {
+				-- ensure copilot suggestions stay at the top
+				cmp.config.compare.score,
+				-- prioritize items that match the text under the cursor
+				cmp.config.compare.exact,
+				-- recently used items
+				cmp.config.compare.recently_used,
+				-- fallback to the default sort
+				cmp.config.compare.offset,
+				cmp.config.compare.sort_text,
+				cmp.config.compare.kind,
+				cmp.config.compare.length,
+				cmp.config.compare.order,
+			},
+		}
+
+		-- Custom key mappings
 		opts.mapping = vim.tbl_extend("force", opts.mapping, {
-			["<Tab>"] = cmp.mapping(function(fallback)
+			["<tab>"] = cmp.mapping(function(fallback)
 				if cmp.visible() then
-					-- You could replace select_next_item() with confirm({ select = true }) to get VS Code autocompletion behavior
 					cmp.confirm({ select = true })
 				else
 					fallback()
 				end
 			end, { "i", "s" }),
-			["<C-Tab>"] = cmp.mapping(function(fallback)
+			["<c-tab>"] = cmp.mapping(function(fallback)
 				if cmp.visible() then
-					-- You could replace select_next_item() with  to get VS Code autocompletion behavior
 					cmp.select_next_item()
 				elseif vim.snippet.active({ direction = 1 }) then
 					vim.schedule(function()
@@ -33,7 +95,7 @@ return {
 					fallback()
 				end
 			end, { "i", "s" }),
-			["<S-Tab>"] = cmp.mapping(function(fallback)
+			["<s-tab>"] = cmp.mapping(function(fallback)
 				if cmp.visible() then
 					cmp.select_prev_item()
 				elseif vim.snippet.active({ direction = -1 }) then
@@ -43,6 +105,10 @@ return {
 				else
 					fallback()
 				end
+			end, { "i", "s" }),
+			-- Ignore enter for auto-completion, insert a new line instead
+			["<cr>"] = cmp.mapping(function(fallback)
+				fallback()
 			end, { "i", "s" }),
 		})
 	end,

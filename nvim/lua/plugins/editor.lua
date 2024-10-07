@@ -210,18 +210,18 @@ return {
 			require("telescope").load_extension("file_browser")
 		end,
 	},
-	{
-		"dhruvasagar/vim-prosession",
-		dependencies = {
-			"tpope/vim-obsession",
-			"telescope.nvim",
-		},
-		config = function()
-			require("prosession").setup()
-			require("telescope").load_extension("prosession")
-		end,
-		cmd = { "Prosession", "Telescope prosession" },
-	},
+	-- {
+	-- 	"dhruvasagar/vim-prosession",
+	-- 	dependencies = {
+	-- 		"tpope/vim-obsession",
+	-- 		"telescope.nvim",
+	-- 	},
+	-- 	config = function()
+	-- 		require("prosession").setup()
+	-- 		require("telescope").load_extension("prosession")
+	-- 	end,
+	-- 	cmd = { "Prosession", "Telescope prosession" },
+	-- },
 	{
 		"hrsh7th/cmp-cmdline",
 		config = function()
