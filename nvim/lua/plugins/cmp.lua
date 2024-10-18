@@ -48,13 +48,14 @@ return {
 		})
 
 		-- Custom sorting
-		opts.sources = cmp.config.sources({
+		opts.sources = {
+			{ name = "copilot", priority = 100 }, -- Adjust the name if you're using a different snippet engine
 			{ name = "luasnip", priority = 90 }, -- Adjust the name if you're using a different snippet engine
 			{ name = "nvim_lsp", priority = 75 },
 			{ name = "buffer", priority = 50 },
 			{ name = "path", priority = 25 },
 			-- Add other sources you're using with appropriate priorities
-		})
+		}
 		opts.sorting = {
 			priority_weight = 2,
 			comparators = {
