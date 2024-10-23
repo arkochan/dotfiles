@@ -21,7 +21,8 @@ return {
 				hsl_color = {
 					pattern = "hsl%(%d+,? %d+%%?,? %d+%%?%)",
 					group = function(_, match)
-						local utils = require("solarized-osaka.hsl")
+						local utils = require(vim.g.colorscheme_name .. ".utils")
+
 						--- @type string, string, string
 						local nh, ns, nl = match:match("hsl%((%d+),? (%d+)%%?,? (%d+)%%?%)")
 						--- @type number?, number?, number?
@@ -276,6 +277,16 @@ return {
 			"RainbowDelimSimple",
 			"RainbowDelimQuoted",
 			"RainbowMultiDelim",
+		},
+	},
+	{
+		"mfussenegger/nvim-lint",
+		opts = {
+			linters = {
+				markdownlint = {
+					args = { "--disable", "MD013", "--" },
+				},
+			},
 		},
 	},
 }

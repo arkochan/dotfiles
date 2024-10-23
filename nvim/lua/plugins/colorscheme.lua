@@ -1,9 +1,7 @@
 return {
 	{
-		"kartikp10/noctis.nvim",
-		dependencies = { "rktjmp/lush.nvim" },
-		name = "rose-pine",
-		lazy = true,
+		vim.g.colorscheme_repo,
+		name = vim.g.colorscheme_name,
 		priority = 1000,
 	},
 }
