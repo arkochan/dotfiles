@@ -60,5 +60,7 @@ end
 vim.api.nvim_create_user_command("Addplugin", function(opts)
 	add_plugin(opts.args)
 end, { nargs = 1 })
-
+--Set colorscheme repo name
+vim.g.colorscheme_name = "oxocarbon"
+vim.g.colorscheme_repo = "nyoom-engineering/oxocarbon.nvim"
 require("config.lazy")
