@@ -67,6 +67,9 @@ case "$1" in
 --browser)
   firefox
   ;;
+--lyrics)
+  Term --lyrics
+  ;;
 --editor)
   nvim
   ;;

@@ -54,6 +54,9 @@ case $MY_TERM in
   "--ranger")
     alacritty --class FloaTerm,FloaTerm -o window.dimensions.lines=14 window.dimensions.columns=90 -e ranger
     ;;
+  "--lyrics")
+    kitty --class=FloaTerm -o initial_window_width=400 -o initial_window_height=600 -e sptlrx
+    ;;
   "--nvim")
     alacritty --hold --class Nvim,Nvim -e nvim
     ;;
@@ -84,6 +87,9 @@ case $MY_TERM in
     ;;
   "--nvim")
     kitty -e nvim
+    ;;
+  "--lyrics")
+    kitty --class=FloaTerm -o initial_window_width=400 -o initial_window_height=600 -e sptlrx
     ;;
   "--music")
     kitty --class=FloaTerm -o initial_window_width=637 -o initial_window_height=412 -e ncmpcpp
