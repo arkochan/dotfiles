@@ -1,0 +1,3 @@
+function genmirror --wraps='sudo reflector --country Bangladesh,India,Japan,France,US --latest 50 --save /etc/pacman.d/mirrorlist.backup && rankmirrors /etc/pacman.d/mirrorlist.backup | sudo tee /etc/pacman.d/mirrorlist' --description 'alias genmirror sudo reflector --country Bangladesh,India,Japan,France,US --latest 50 --save /etc/pacman.d/mirrorlist.backup && rankmirrors /etc/pacman.d/mirrorlist.backup | sudo tee /etc/pacman.d/mirrorlist'
+    sudo reflector --verbose -a 12 -f 10 -c Bangladesh -c India -c Germany -c France -c Indonesia -c Netherlands -c Pakistan -c Singapore -c Sweden -c GB --ipv4 --protocol http,https --sort rate --save /etc/pacman.d/mirrorlist
+end
