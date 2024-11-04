@@ -1,0 +1,89 @@
+#!/bin/bash
+
+# Function to display usage
+usage() {
+    echo "Usage: $0 --org ORG --repo REPO --project-name PROJECT_NAME [--config config.cfg]"
+    exit 1
+}
+
+# Default values for variables
+ORG=""
+REPO=""
+PROJECT_NAME=""
+CONFIG_FILE=""
+
+# Function to load variables from a config file
+load_config() {
+    if [ -f "$CONFIG_FILE" ]; then
+        # Load each line from the config file and export as environment variables
+        while IFS='=' read -r key value; do
+            case "$key" in
+                ORG) ORG="$value" ;;
+                REPO) REPO="$value" ;;
+                PROJECT_NAME) PROJECT_NAME="$value" ;;
+            esac
+        done < "$CONFIG_FILE"
+    else
+        echo "Config file $CONFIG_FILE not found!"
+        exit 1
+    fi
+}
+
+# Parse command-line arguments
+while [[ "$#" -gt 0 ]]; do
+    case "$1" in
+        --org)
+            ORG="$2"
+            shift 2
+            ;;
+        --repo)
+            REPO="$2"
+            shift 2
+            ;;
+        --project-name)
+            PROJECT_NAME="$2"
+            shift 2
+            ;;
+        --config)
+            CONFIG_FILE="$2"
+            load_config
+            shift 2
+            ;;
+        *)
+            echo "Unknown parameter: $1"
+            usage
+            ;;
+    esac
+done
+
+# Check if all required arguments are provided
+if [[ -z "$ORG" || -z "$REPO" || -z "$PROJECT_NAME" ]]; then
+    echo "Error: Missing required arguments."
+    usage
+fi
+
+# Check if 'gh' CLI is installed
+if ! command -v gh &> /dev/null; then
+    echo "GitHub CLI (gh) is not installed. Please install it and try again."
+    exit 1
+fi
+
+# Check if issues.txt file exists
+if [ ! -f issues.txt ]; then
+    echo "issues.txt file not found! Please create the file with the issue details."
+    exit 1
+fi
+
+# Read issues from issues.txt and create them using 'gh'
+while IFS= read -r line; do
+    # Split line into title and body using delimiter '||'
+    IFS='||' read -r TITLE BODY <<< "$line"
+
+    # Create GitHub issue
+    gh issue create --repo "$ORG/$REPO" --title "$TITLE" --body "$BODY" --project "$PROJECT_NAME"
+
+    echo "Created issue: $TITLE"
+done < issues.txt
+
+echo "All issues have been created successfully!"
+
