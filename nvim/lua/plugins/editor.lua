@@ -225,6 +225,7 @@ return {
 	-- },
 	{
 		"hrsh7th/cmp-cmdline",
+		enabled = false,
 		config = function()
 			local cmp = require("cmp")
 			cmp.setup.cmdline(":", {
@@ -301,6 +302,7 @@ return {
 	},
 	{
 		"yetone/avante.nvim",
+		enabled = false,
 		event = "VeryLazy",
 		lazy = false,
 		version = false, -- set this if you want to always pull the latest change

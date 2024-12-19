@@ -1,9 +1,15 @@
 [font]
-size = 14
+size = 12.0
 
-builtin_box_drawing = true
+# Optional: Enable bold, italic, and other font styles
+[font.normal]
+family = "JetBrains Mono"
+style = "Regular"
 
-normal = { family = "JetBrainsMono NF", style = "SemiBold" }
-bold = { family = "JetBrainsMono NF", style = "Bold" }
-italic = { family = "JetBrainsMono NF", style = "Italic" }
-bold_italic = { family = "JetBrainsMono NF", style = "Bold Italic" }
+[font.bold]
+family = "JetBrains Mono"
+style = "Bold"
+
+[font.italic]
+family = "JetBrains Mono"
+style = "Italic"
