@@ -223,6 +223,7 @@ return {
 	-- 	end,
 	-- 	cmd = { "Prosession", "Telescope prosession" },
 	-- },
+	{ "alexghergh/nvim-tmux-navigation" },
 	{
 		"hrsh7th/cmp-cmdline",
 		enabled = false,
