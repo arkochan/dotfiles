@@ -10,7 +10,6 @@ function nvim --description 'alias nvim nvim'
     else
         # Otherwise, store the current working directory
         echo (pwd) >>$history_file
-        /sbin/nvim $argv
-
     end
+    /sbin/nvim $argv
 end
