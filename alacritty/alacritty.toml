@@ -9,7 +9,7 @@ blinking = "On"
 shape = "Block"
 
 [selection]
-save_to_clipboard = false 
+save_to_clipboard = false
 
 [window]
 decorations = "none"
@@ -18,7 +18,7 @@ opacity = 1.0
 dynamic_padding = true
 
 [window.padding]
-x = 0  
+x = 0
 y = 0
 
 [scrolling]
@@ -28,11 +28,13 @@ multiplier = 3
 [bell]
 animation = "Linear"
 duration = 0
-command = { program = "paplay", args = ["/usr/share/sounds/freedesktop/stereo/dialog-error.oga"] }
+command = { program = "paplay", args = [
+  "/usr/share/sounds/freedesktop/stereo/dialog-error.oga",
+] }
 [keyboard]
 bindings = [
   { key = "Right", mods = "Control", chars = "\u001BF" },
-  { key = "Left",  mods = "Control", chars = "\u001BB" },
+  { key = "Left", mods = "Control", chars = "\u001BB" },
 ]
 
 [general]
@@ -46,4 +48,7 @@ live_config_reload = true
 #  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝      ╚═╝   
 #	gh0stzk - https://github.com/gh0stzk/dotfiles
 
-import = ["~/.config/alacritty/rice-colors.toml", "~/.config/alacritty/fonts.toml"]
+import = [
+  "~/.config/alacritty/rice-colors.toml",
+  "~/.config/alacritty/fonts.toml",
+]

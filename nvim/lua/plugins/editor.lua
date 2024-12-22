@@ -223,7 +223,16 @@ return {
 	-- 	end,
 	-- 	cmd = { "Prosession", "Telescope prosession" },
 	-- },
-	{ "alexghergh/nvim-tmux-navigation" },
+
+	{
+		"aserowy/tmux.nvim",
+		opts = {
+			navigation = {
+				enable_default_keybindings = false, -- Disable default keybindings
+				persist_zoom = true,
+			},
+		},
+	},
 	{
 		"hrsh7th/cmp-cmdline",
 		enabled = false,

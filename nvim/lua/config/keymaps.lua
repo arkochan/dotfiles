@@ -47,6 +47,11 @@ keymap.set("n", "<C-l>", "<C-w>l", { desc = "Jump to tab right" })
 -- keymap.set("n", "<C-w><up>", "<C-w>-", { desc = "resize window up" })
 -- keymap.set("n", "<C-w><down>", "<C-w>+", { desc = "resize window down" })
 
+local tmux = require("tmux")
+keymap.set("n", "<C-H>", tmux.move_left, { silent = true })
+keymap.set("n", "<C-J>", tmux.move_down, { silent = true })
+keymap.set("n", "<C-K>", tmux.move_up, { silent = true })
+keymap.set("n", "<C-L>", tmux.move_right, { silent = true })
 -- Diagnostics
 keymap.set("n", "t", function()
 	vim.diagnostic.goto_next()
