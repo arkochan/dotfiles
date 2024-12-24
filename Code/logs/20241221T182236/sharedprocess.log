@@ -1,0 +1,15 @@
+2024-12-21 18:22:38.854 [info] Started initializing default profile extensions in extensions installation folder. file:///home/arkochan/.vscode/extensions
+2024-12-21 18:22:38.857 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/arkochan/.vscode/extensions Unable to create file 'vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-12-21 18:22:38.857 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/arkochan/.vscode/extensions
+2024-12-21 18:23:00.420 [info] Getting Manifest... vue.volar
+2024-12-21 18:23:00.641 [info] Installing extension: vue.volar {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-21 18:23:01.706 [info] Extension signature verification result for vue.volar: UnknownError. Executed: true. Duration: 6ms.
+2024-12-21 18:23:01.745 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vue.volar-2.1.10: vue.volar
+2024-12-21 18:23:01.826 [info] Renamed to /home/arkochan/.vscode/extensions/vue.volar-2.1.10
+2024-12-21 18:23:01.986 [info] Extension installed successfully: vue.volar vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-21 18:23:34.310 [info] Getting Manifest... usernamehw.errorlens
+2024-12-21 18:23:34.442 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-21 18:23:35.418 [info] Extension signature verification result for usernamehw.errorlens: UnknownError. Executed: true. Duration: 5ms.
+2024-12-21 18:23:35.427 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/usernamehw.errorlens-3.22.0: usernamehw.errorlens
+2024-12-21 18:23:35.616 [info] Renamed to /home/arkochan/.vscode/extensions/usernamehw.errorlens-3.22.0
+2024-12-21 18:23:35.806 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json

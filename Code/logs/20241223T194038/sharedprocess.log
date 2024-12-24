@@ -1,0 +1,602 @@
+2024-12-23 19:43:04.008 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2024-12-23 19:43:04.008 [info] Getting Manifest... twxs.cmake
+2024-12-23 19:43:04.008 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-12-23 19:43:04.008 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-12-23 19:43:04.008 [info] Getting Manifest... vscjava.vscode-maven
+2024-12-23 19:43:04.008 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2024-12-23 19:43:04.008 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2024-12-23 19:43:04.008 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2024-12-23 19:43:04.008 [info] Getting Manifest... rangav.vscode-thunder-client
+2024-12-23 19:43:04.008 [info] Getting Manifest... github.codespaces
+2024-12-23 19:43:04.009 [info] Getting Manifest... wollacebuarque.tailwind-theme
+2024-12-23 19:43:04.009 [info] Getting Manifest... divyanshuagrawal.competitive-programming-helper
+2024-12-23 19:43:04.009 [info] Getting Manifest... vscjava.vscode-java-test
+2024-12-23 19:43:04.009 [info] Getting Manifest... hassanoof.theme
+2024-12-23 19:43:04.009 [info] Getting Manifest... hwencc.html-tag-wrapper
+2024-12-23 19:43:04.009 [info] Getting Manifest... jebbs.plantuml
+2024-12-23 19:43:04.009 [info] Getting Manifest... prisma.prisma
+2024-12-23 19:43:04.009 [info] Getting Manifest... github.github-vscode-theme
+2024-12-23 19:43:04.009 [info] Getting Manifest... tauri-apps.tauri-vscode
+2024-12-23 19:43:04.009 [info] Getting Manifest... xen.ccpp-theme
+2024-12-23 19:43:04.009 [info] Getting Manifest... lakshits11.neon-city
+2024-12-23 19:43:04.009 [info] Getting Manifest... oderwat.indent-rainbow
+2024-12-23 19:43:04.009 [info] Getting Manifest... ms-vscode.cpptools
+2024-12-23 19:43:04.009 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2024-12-23 19:43:04.009 [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+2024-12-23 19:43:04.009 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2024-12-23 19:43:04.010 [info] Getting Manifest... plibither8.remove-comments
+2024-12-23 19:43:04.010 [info] Getting Manifest... afmicc.getterandsettergenerator
+2024-12-23 19:43:04.010 [info] Getting Manifest... thebromo.bromium
+2024-12-23 19:43:04.010 [info] Getting Manifest... player0.bocchi-the-rock
+2024-12-23 19:43:04.010 [info] Getting Manifest... vmware.vscode-boot-dev-pack
+2024-12-23 19:43:04.010 [info] Getting Manifest... codesacha.synthwave--2077
+2024-12-23 19:43:04.010 [info] Getting Manifest... alliemartz.zelda-totk
+2024-12-23 19:43:04.010 [info] Getting Manifest... pkief.material-icon-theme
+2024-12-23 19:43:04.010 [info] Getting Manifest... pranaygp.vscode-css-peek
+2024-12-23 19:43:04.010 [info] Getting Manifest... redhat.vscode-rsp-ui
+2024-12-23 19:43:04.010 [info] Getting Manifest... redhat.vscode-community-server-connector
+2024-12-23 19:43:04.010 [info] Getting Manifest... njqdev.vscode-python-typehint
+2024-12-23 19:43:04.010 [info] Getting Manifest... vmware.vscode-spring-boot
+2024-12-23 19:43:04.010 [info] Getting Manifest... formulahendry.code-runner
+2024-12-23 19:43:04.010 [info] Getting Manifest... alfredbirk.tailwind-documentation
+2024-12-23 19:43:04.010 [info] Getting Manifest... ms-vscode.cpptools-themes
+2024-12-23 19:43:04.010 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2024-12-23 19:43:04.010 [info] Getting Manifest... homerotto.themin
+2024-12-23 19:43:04.010 [info] Getting Manifest... bradgashler.htmltagwrap
+2024-12-23 19:43:04.010 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2024-12-23 19:43:04.010 [info] Getting Manifest... chakrounanas.turbo-console-log
+2024-12-23 19:43:04.010 [info] Getting Manifest... reditorsupport.r
+2024-12-23 19:43:04.010 [info] Getting Manifest... wallabyjs.console-ninja
+2024-12-23 19:43:04.011 [info] Getting Manifest... figma.figma-vscode-extension
+2024-12-23 19:43:04.011 [info] Getting Manifest... mebrahtom.plantumlpreviewer
+2024-12-23 19:43:04.011 [info] Getting Manifest... magicshochu.grep
+2024-12-23 19:43:04.011 [info] Getting Manifest... petli-full.awk-vscode
+2024-12-23 19:43:04.011 [info] Getting Manifest... ftsamoyed.theme-pink-cat-boo
+2024-12-23 19:43:04.011 [info] Getting Manifest... grapecity.gc-excelviewer
+2024-12-23 19:43:04.011 [info] Getting Manifest... tshino.kb-macro
+2024-12-23 19:43:04.011 [info] Getting Manifest... vscjava.vscode-java-dependency
+2024-12-23 19:43:04.011 [info] Getting Manifest... ecmel.vscode-html-css
+2024-12-23 19:43:04.011 [info] Getting Manifest... esbenp.prettier-vscode
+2024-12-23 19:43:04.011 [info] Getting Manifest... cschlosser.doxdocgen
+2024-12-23 19:43:04.011 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-12-23 19:43:04.011 [info] Getting Manifest... ms-vscode.makefile-tools
+2024-12-23 19:43:04.011 [info] Getting Manifest... ms-vscode.remote-explorer
+2024-12-23 19:43:04.011 [info] Getting Manifest... vscjava.vscode-spring-initializr
+2024-12-23 19:43:04.011 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-12-23 19:43:04.011 [info] Getting Manifest... vscjava.vscode-spring-boot-dashboard
+2024-12-23 19:43:04.012 [info] Getting Manifest... eamodio.gitlens
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-python.isort
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-python.vscode-pylance
+2024-12-23 19:43:04.012 [info] Getting Manifest... golang.go
+2024-12-23 19:43:04.012 [info] Getting Manifest... vscjava.vscode-java-debug
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-vscode.remote-server
+2024-12-23 19:43:04.012 [info] Getting Manifest... vscjava.vscode-java-pack
+2024-12-23 19:43:04.012 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-python.debugpy
+2024-12-23 19:43:04.012 [info] Getting Manifest... github.vscode-pull-request-github
+2024-12-23 19:43:04.012 [info] Getting Manifest... redhat.vscode-xml
+2024-12-23 19:43:04.012 [info] Getting Manifest... github.copilot
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-python.python
+2024-12-23 19:43:04.012 [info] Getting Manifest... ms-toolsai.jupyter
+2024-12-23 19:43:04.012 [info] Getting Manifest... redhat.java
+2024-12-23 19:43:04.012 [info] Getting Manifest... rust-lang.rust-analyzer
+2024-12-23 19:43:09.179 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: twxs.cmake {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: bradgashler.htmltagwrap {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: jeff-hykin.better-cpp-syntax {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: rangav.vscode-thunder-client {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: ms-vscode-remote.remote-containers {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: divyanshuagrawal.competitive-programming-helper {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: ms-vscode-remote.remote-wsl {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: hwencc.html-tag-wrapper {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: tauri-apps.tauri-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: alliemartz.zelda-totk {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: github.codespaces {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.179 [info] Installing extension: github.github-vscode-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: github.copilot {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: vscjava.vscode-maven {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: vscjava.vscode-java-dependency {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: vscjava.vscode-spring-initializr {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: vscjava.vscode-java-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: vscjava.vscode-spring-boot-dashboard {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: vscjava.vscode-java-test {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: vscjava.vscode-java-debug {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: player0.bocchi-the-rock {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: wollacebuarque.tailwind-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: lakshits11.neon-city {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: ms-toolsai.jupyter-renderers {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: ms-toolsai.jupyter-keymap {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: pranaygp.vscode-css-peek {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: ms-toolsai.jupyter {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.180 [info] Installing extension: plibither8.remove-comments {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: oderwat.indent-rainbow {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: dsznajder.es7-react-js-snippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: xen.ccpp-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: ms-vscode.cpptools-themes {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: ms-vscode.cpptools-extension-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: wallabyjs.console-ninja {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: ms-vscode.makefile-tools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: jebbs.plantuml {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: ms-vscode.remote-server {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: ms-vsliveshare.vsliveshare {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: ms-vscode.cpptools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: codesacha.synthwave--2077 {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: redhat.vscode-rsp-ui {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: hassanoof.theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: afmicc.getterandsettergenerator {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: redhat.vscode-xml {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.181 [info] Installing extension: thebromo.bromium {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: redhat.vscode-community-server-connector {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: redhat.java {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: reditorsupport.r {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: ms-vscode.cmake-tools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: vmware.vscode-boot-dev-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: alfredbirk.tailwind-documentation {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: vmware.vscode-spring-boot {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: chakrounanas.turbo-console-log {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: njqdev.vscode-python-typehint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: mebrahtom.plantumlpreviewer {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: homerotto.themin {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: ftsamoyed.theme-pink-cat-boo {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: prisma.prisma {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: figma.figma-vscode-extension {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: ms-python.isort {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: petli-full.awk-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.182 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: magicshochu.grep {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: rust-lang.rust-analyzer {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: grapecity.gc-excelviewer {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: tshino.kb-macro {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: golang.go {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: cschlosser.doxdocgen {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack mechatroner.rainbow-csv
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack twxs.cmake
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack bradgashler.htmltagwrap
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack jeff-hykin.better-cpp-syntax
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack rangav.vscode-thunder-client
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-containers
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack divyanshuagrawal.competitive-programming-helper
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack hwencc.html-tag-wrapper
+2024-12-23 19:43:09.183 [info] Installing the extension without checking dependencies and pack tauri-apps.tauri-vscode
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack alliemartz.zelda-totk
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack github.codespaces
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack github.github-vscode-theme
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack github.copilot
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack vscjava.vscode-spring-initializr
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack vscjava.vscode-spring-boot-dashboard
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack player0.bocchi-the-rock
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack wollacebuarque.tailwind-theme
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack lakshits11.neon-city
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2024-12-23 19:43:09.184 [info] Installing the extension without checking dependencies and pack pranaygp.vscode-css-peek
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack plibither8.remove-comments
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack oderwat.indent-rainbow
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack dsznajder.es7-react-js-snippets
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack xen.ccpp-theme
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-themes
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-extension-pack
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack wallabyjs.console-ninja
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-vscode.makefile-tools
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack jebbs.plantuml
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-server
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-explorer
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-vsliveshare.vsliveshare
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack codesacha.synthwave--2077
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack redhat.vscode-rsp-ui
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack hassanoof.theme
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack afmicc.getterandsettergenerator
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack redhat.vscode-xml
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack thebromo.bromium
+2024-12-23 19:43:09.185 [info] Installing the extension without checking dependencies and pack redhat.vscode-community-server-connector
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack redhat.java
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack reditorsupport.r
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack ms-vscode.cmake-tools
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack vmware.vscode-boot-dev-pack
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack alfredbirk.tailwind-documentation
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack vmware.vscode-spring-boot
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack chakrounanas.turbo-console-log
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack njqdev.vscode-python-typehint
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack mebrahtom.plantumlpreviewer
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack homerotto.themin
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack ftsamoyed.theme-pink-cat-boo
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack prisma.prisma
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack bradlc.vscode-tailwindcss
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack figma.figma-vscode-extension
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack ms-python.isort
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack ms-python.python
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack petli-full.awk-vscode
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack magicshochu.grep
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2024-12-23 19:43:09.186 [info] Installing the extension without checking dependencies and pack rust-lang.rust-analyzer
+2024-12-23 19:43:09.187 [info] Installing the extension without checking dependencies and pack grapecity.gc-excelviewer
+2024-12-23 19:43:09.187 [info] Installing the extension without checking dependencies and pack tshino.kb-macro
+2024-12-23 19:43:09.187 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2024-12-23 19:43:09.187 [info] Installing the extension without checking dependencies and pack golang.go
+2024-12-23 19:43:09.187 [info] Installing the extension without checking dependencies and pack cschlosser.doxdocgen
+2024-12-23 19:43:09.187 [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+2024-12-23 19:43:14.675 [info] Extension signature verification result for wollacebuarque.tailwind-theme: UnknownError. Executed: true. Duration: 12ms.
+2024-12-23 19:43:14.675 [info] Extension signature verification result for afmicc.getterandsettergenerator: UnknownError. Executed: true. Duration: 16ms.
+2024-12-23 19:43:14.675 [info] Extension signature verification result for hwencc.html-tag-wrapper: UnknownError. Executed: true. Duration: 20ms.
+2024-12-23 19:43:14.675 [info] Extension signature verification result for plibither8.remove-comments: UnknownError. Executed: true. Duration: 23ms.
+2024-12-23 19:43:14.675 [info] Extension signature verification result for hassanoof.theme: UnknownError. Executed: true. Duration: 26ms.
+2024-12-23 19:43:14.675 [info] Extension signature verification result for jeff-hykin.better-cpp-syntax: UnknownError. Executed: true. Duration: 30ms.
+2024-12-23 19:43:14.676 [info] Extension signature verification result for xen.ccpp-theme: UnknownError. Executed: true. Duration: 34ms.
+2024-12-23 19:43:14.676 [info] Extension signature verification result for alliemartz.zelda-totk: UnknownError. Executed: true. Duration: 39ms.
+2024-12-23 19:43:14.676 [info] Extension signature verification result for divyanshuagrawal.competitive-programming-helper: UnknownError. Executed: true. Duration: 43ms.
+2024-12-23 19:43:14.676 [info] Extension signature verification result for rangav.vscode-thunder-client: UnknownError. Executed: true. Duration: 56ms.
+2024-12-23 19:43:14.693 [info] Extension signature verification result for player0.bocchi-the-rock: UnknownError. Executed: true. Duration: 24ms.
+2024-12-23 19:43:14.700 [info] Extension signature verification result for vscjava.vscode-java-dependency: UnknownError. Executed: true. Duration: 13ms.
+2024-12-23 19:43:14.700 [info] Extension signature verification result for vscjava.vscode-java-pack: UnknownError. Executed: true. Duration: 18ms.
+2024-12-23 19:43:14.700 [info] Extension signature verification result for vscjava.vscode-java-test: UnknownError. Executed: true. Duration: 22ms.
+2024-12-23 19:43:14.702 [info] Extension signature verification result for tauri-apps.tauri-vscode: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:14.707 [info] Extension signature verification result for github.github-vscode-theme: UnknownError. Executed: true. Duration: 5ms.
+2024-12-23 19:43:14.725 [info] Extension signature verification result for lakshits11.neon-city: UnknownError. Executed: true. Duration: 12ms.
+2024-12-23 19:43:14.726 [info] Extension signature verification result for vscjava.vscode-java-debug: UnknownError. Executed: true. Duration: 17ms.
+2024-12-23 19:43:14.727 [info] Extension signature verification result for vscjava.vscode-maven: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:14.727 [info] Extension signature verification result for oderwat.indent-rainbow: UnknownError. Executed: true. Duration: 10ms.
+2024-12-23 19:43:14.750 [info] Extension signature verification result for vscjava.vscode-spring-initializr: UnknownError. Executed: true. Duration: 8ms.
+2024-12-23 19:43:14.750 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: UnknownError. Executed: true. Duration: 13ms.
+2024-12-23 19:43:14.750 [info] Extension signature verification result for ms-vscode-remote.remote-wsl: UnknownError. Executed: true. Duration: 17ms.
+2024-12-23 19:43:14.754 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 9ms.
+2024-12-23 19:43:14.760 [info] Extension signature verification result for vscjava.vscode-spring-boot-dashboard: UnknownError. Executed: true. Duration: 10ms.
+2024-12-23 19:43:14.762 [info] Extension signature verification result for ms-vscode-remote.remote-containers: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:14.770 [info] Extension signature verification result for ms-toolsai.jupyter-keymap: UnknownError. Executed: true. Duration: 8ms.
+2024-12-23 19:43:14.810 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: UnknownError. Executed: true. Duration: 9ms.
+2024-12-23 19:43:14.810 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-cell-tags: UnknownError. Executed: true. Duration: 14ms.
+2024-12-23 19:43:14.812 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-slideshow: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:14.819 [info] Extension signature verification result for github.vscode-pull-request-github: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:14.833 [info] Extension signature verification result for ms-toolsai.jupyter-renderers: UnknownError. Executed: true. Duration: 10ms.
+2024-12-23 19:43:14.835 [info] Extension signature verification result for twxs.cmake: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:14.848 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/hassanoof.theme-0.0.1: hassanoof.theme
+2024-12-23 19:43:14.865 [info] Renamed to /home/arkochan/.vscode/extensions/hassanoof.theme-0.0.1
+2024-12-23 19:43:14.889 [info] Extension signature verification result for wallabyjs.console-ninja: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:14.905 [info] Extension signature verification result for dsznajder.es7-react-js-snippets: UnknownError. Executed: true. Duration: 11ms.
+2024-12-23 19:43:14.913 [info] Extension signature verification result for github.codespaces: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:14.918 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/alliemartz.zelda-totk-0.0.1: alliemartz.zelda-totk
+2024-12-23 19:43:14.930 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2024-12-23 19:43:14.930 [info] Extension signature verification result for reditorsupport.r: UnknownError. Executed: true. Duration: 8ms.
+2024-12-23 19:43:14.931 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/hwencc.html-tag-wrapper-0.2.3: hwencc.html-tag-wrapper
+2024-12-23 19:43:14.938 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/wollacebuarque.tailwind-theme-0.5.7: wollacebuarque.tailwind-theme
+2024-12-23 19:43:14.939 [info] Extension signature verification result for ms-toolsai.jupyter: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:14.941 [info] Renamed to /home/arkochan/.vscode/extensions/alliemartz.zelda-totk-0.0.1
+2024-12-23 19:43:14.943 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/afmicc.getterandsettergenerator-1.0.3: afmicc.getterandsettergenerator
+2024-12-23 19:43:14.946 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/plibither8.remove-comments-1.2.2: plibither8.remove-comments
+2024-12-23 19:43:14.952 [info] Renamed to /home/arkochan/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2024-12-23 19:43:14.958 [info] Renamed to /home/arkochan/.vscode/extensions/hwencc.html-tag-wrapper-0.2.3
+2024-12-23 19:43:14.960 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:14.961 [info] Renamed to /home/arkochan/.vscode/extensions/wollacebuarque.tailwind-theme-0.5.7
+2024-12-23 19:43:14.966 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arkochan/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arkochan/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-23 19:43:14.968 [info] Renamed to /home/arkochan/.vscode/extensions/afmicc.getterandsettergenerator-1.0.3
+2024-12-23 19:43:14.970 [info] Renamed to /home/arkochan/.vscode/extensions/plibither8.remove-comments-1.2.2
+2024-12-23 19:43:14.974 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/player0.bocchi-the-rock-0.1.0: player0.bocchi-the-rock
+2024-12-23 19:43:14.986 [info] Renamed to /home/arkochan/.vscode/extensions/player0.bocchi-the-rock-0.1.0
+2024-12-23 19:43:15.009 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/tauri-apps.tauri-vscode-0.2.9: tauri-apps.tauri-vscode
+2024-12-23 19:43:15.013 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.27.1: jeff-hykin.better-cpp-syntax
+2024-12-23 19:43:15.021 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/github.github-vscode-theme-6.3.5: github.github-vscode-theme
+2024-12-23 19:43:15.024 [info] Renamed to /home/arkochan/.vscode/extensions/tauri-apps.tauri-vscode-0.2.9
+2024-12-23 19:43:15.026 [info] Renamed to /home/arkochan/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.27.1
+2024-12-23 19:43:15.040 [info] Renamed to /home/arkochan/.vscode/extensions/github.github-vscode-theme-6.3.5
+2024-12-23 19:43:15.069 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1: vscjava.vscode-java-dependency
+2024-12-23 19:43:15.078 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6: ms-toolsai.vscode-jupyter-slideshow
+2024-12-23 19:43:15.083 [info] Renamed to /home/arkochan/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1
+2024-12-23 19:43:15.095 [info] Extension signature verification result for ms-vsliveshare.vsliveshare: UnknownError. Executed: true. Duration: 9ms.
+2024-12-23 19:43:15.096 [info] Renamed to /home/arkochan/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6
+2024-12-23 19:43:15.099 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/divyanshuagrawal.competitive-programming-helper-2024.12.1734841442: divyanshuagrawal.competitive-programming-helper
+2024-12-23 19:43:15.115 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9: ms-toolsai.vscode-jupyter-cell-tags
+2024-12-23 19:43:15.116 [info] Renamed to /home/arkochan/.vscode/extensions/divyanshuagrawal.competitive-programming-helper-2024.12.1734841442
+2024-12-23 19:43:15.119 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscjava.vscode-spring-initializr-0.11.2: vscjava.vscode-spring-initializr
+2024-12-23 19:43:15.119 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/xen.ccpp-theme-0.3.4: xen.ccpp-theme
+2024-12-23 19:43:15.132 [info] Renamed to /home/arkochan/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+2024-12-23 19:43:15.134 [info] Renamed to /home/arkochan/.vscode/extensions/xen.ccpp-theme-0.3.4
+2024-12-23 19:43:15.134 [info] Renamed to /home/arkochan/.vscode/extensions/vscjava.vscode-spring-initializr-0.11.2
+2024-12-23 19:43:15.150 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2024-12-23 19:43:15.162 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2024-12-23 19:43:15.195 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscjava.vscode-spring-boot-dashboard-0.14.0: vscjava.vscode-spring-boot-dashboard
+2024-12-23 19:43:15.206 [info] Renamed to /home/arkochan/.vscode/extensions/vscjava.vscode-spring-boot-dashboard-0.14.0
+2024-12-23 19:43:15.239 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscjava.vscode-java-debug-0.58.1: vscjava.vscode-java-debug
+2024-12-23 19:43:15.247 [info] Renamed to /home/arkochan/.vscode/extensions/vscjava.vscode-java-debug-0.58.1
+2024-12-23 19:43:15.249 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/lakshits11.neon-city-0.0.4: lakshits11.neon-city
+2024-12-23 19:43:15.260 [info] Renamed to /home/arkochan/.vscode/extensions/lakshits11.neon-city-0.0.4
+2024-12-23 19:43:15.271 [info] Extension signature verification result for ms-vscode.cpptools-extension-pack: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:15.283 [info] Extension signature verification result for ms-vscode.cpptools-themes: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:15.285 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscjava.vscode-java-test-0.43.0: vscjava.vscode-java-test
+2024-12-23 19:43:15.293 [info] Extension signature verification result for thebromo.bromium: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:15.302 [info] Extension signature verification result for ms-vscode.makefile-tools: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:15.309 [info] Extension signature verification result for ms-vscode.remote-explorer: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:15.312 [info] Renamed to /home/arkochan/.vscode/extensions/vscjava.vscode-java-test-0.43.0
+2024-12-23 19:43:15.330 [info] Extension signature verification result for redhat.vscode-rsp-ui: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:15.342 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0: ms-vscode.cpptools-extension-pack
+2024-12-23 19:43:15.348 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2024-12-23 19:43:15.366 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode-remote.remote-wsl-0.88.5: ms-vscode-remote.remote-wsl
+2024-12-23 19:43:15.374 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode-remote.remote-wsl-0.88.5
+2024-12-23 19:43:15.375 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2024-12-23 19:43:15.384 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+2024-12-23 19:43:15.410 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/rangav.vscode-thunder-client-2.33.1: rangav.vscode-thunder-client
+2024-12-23 19:43:15.419 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/github.vscode-pull-request-github-0.102.0: github.vscode-pull-request-github
+2024-12-23 19:43:15.420 [info] Renamed to /home/arkochan/.vscode/extensions/rangav.vscode-thunder-client-2.33.1
+2024-12-23 19:43:15.429 [info] Renamed to /home/arkochan/.vscode/extensions/github.vscode-pull-request-github-0.102.0
+2024-12-23 19:43:15.454 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscjava.vscode-java-pack-0.29.0: vscjava.vscode-java-pack
+2024-12-23 19:43:15.463 [info] Renamed to /home/arkochan/.vscode/extensions/vscjava.vscode-java-pack-0.29.0
+2024-12-23 19:43:15.469 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode.remote-explorer-0.4.3: ms-vscode.remote-explorer
+2024-12-23 19:43:15.480 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode.remote-explorer-0.4.3
+2024-12-23 19:43:15.509 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode-remote.remote-ssh-0.116.1: ms-vscode-remote.remote-ssh
+2024-12-23 19:43:15.517 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode-remote.remote-ssh-0.116.1
+2024-12-23 19:43:15.531 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/thebromo.bromium-0.1.4: thebromo.bromium
+2024-12-23 19:43:15.541 [info] Renamed to /home/arkochan/.vscode/extensions/thebromo.bromium-0.1.4
+2024-12-23 19:43:15.544 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode.makefile-tools-0.11.13: ms-vscode.makefile-tools
+2024-12-23 19:43:15.548 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/reditorsupport.r-2.8.4: reditorsupport.r
+2024-12-23 19:43:15.553 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode.makefile-tools-0.11.13
+2024-12-23 19:43:15.561 [info] Renamed to /home/arkochan/.vscode/extensions/reditorsupport.r-2.8.4
+2024-12-23 19:43:15.595 [info] Extension signature verification result for ms-vscode.remote-server: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:15.620 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/twxs.cmake-0.0.17: twxs.cmake
+2024-12-23 19:43:15.628 [info] Renamed to /home/arkochan/.vscode/extensions/twxs.cmake-0.0.17
+2024-12-23 19:43:15.648 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode-remote.remote-containers-0.394.0: ms-vscode-remote.remote-containers
+2024-12-23 19:43:15.657 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode-remote.remote-containers-0.394.0
+2024-12-23 19:43:15.763 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode.remote-server-1.5.2: ms-vscode.remote-server
+2024-12-23 19:43:15.780 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/github.codespaces-1.17.3: github.codespaces
+2024-12-23 19:43:15.786 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscjava.vscode-maven-0.44.0: vscjava.vscode-maven
+2024-12-23 19:43:15.806 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3: dsznajder.es7-react-js-snippets
+2024-12-23 19:43:15.872 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21: ms-toolsai.jupyter-renderers
+2024-12-23 19:43:15.873 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode.remote-server-1.5.2
+2024-12-23 19:43:15.955 [info] Renamed to /home/arkochan/.vscode/extensions/github.codespaces-1.17.3
+2024-12-23 19:43:15.955 [info] Renamed to /home/arkochan/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2024-12-23 19:43:15.956 [info] Renamed to /home/arkochan/.vscode/extensions/vscjava.vscode-maven-0.44.0
+2024-12-23 19:43:16.026 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64: ms-toolsai.jupyter
+2024-12-23 19:43:16.137 [info] Renamed to /home/arkochan/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21
+2024-12-23 19:43:16.202 [info] Renamed to /home/arkochan/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64
+2024-12-23 19:43:16.229 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/github.copilot-1.254.0: github.copilot
+2024-12-23 19:43:16.315 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5941: ms-vsliveshare.vsliveshare
+2024-12-23 19:43:16.363 [info] Renamed to /home/arkochan/.vscode/extensions/github.copilot-1.254.0
+2024-12-23 19:43:16.430 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/pkief.material-icon-theme-5.16.0: pkief.material-icon-theme
+2024-12-23 19:43:16.457 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/wallabyjs.console-ninja-1.0.376: wallabyjs.console-ninja
+2024-12-23 19:43:16.558 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5941
+2024-12-23 19:43:16.649 [info] Renamed to /home/arkochan/.vscode/extensions/pkief.material-icon-theme-5.16.0
+2024-12-23 19:43:16.649 [info] Renamed to /home/arkochan/.vscode/extensions/wallabyjs.console-ninja-1.0.376
+2024-12-23 19:43:16.723 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2024-12-23 19:43:16.781 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/redhat.vscode-rsp-ui-0.24.11: redhat.vscode-rsp-ui
+2024-12-23 19:43:16.889 [info] Renamed to /home/arkochan/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2024-12-23 19:43:16.963 [info] Renamed to /home/arkochan/.vscode/extensions/redhat.vscode-rsp-ui-0.24.11
+2024-12-23 19:43:16.971 [info] Extension signature verification result for pranaygp.vscode-css-peek: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:17.304 [info] Extension signature verification result for ms-vscode.cmake-tools: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:17.396 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode.cmake-tools-1.19.52: ms-vscode.cmake-tools
+2024-12-23 19:43:17.903 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode.cmake-tools-1.19.52
+2024-12-23 19:43:18.802 [info] Extension signature verification result for njqdev.vscode-python-typehint: UnknownError. Executed: true. Duration: 26ms.
+2024-12-23 19:43:18.803 [info] Extension signature verification result for jebbs.plantuml: UnknownError. Executed: true. Duration: 32ms.
+2024-12-23 19:43:18.803 [info] Extension signature verification result for vmware.vscode-boot-dev-pack: UnknownError. Executed: true. Duration: 39ms.
+2024-12-23 19:43:18.805 [info] Extension signature verification result for figma.figma-vscode-extension: UnknownError. Executed: true. Duration: 8ms.
+2024-12-23 19:43:18.805 [info] Extension signature verification result for magicshochu.grep: UnknownError. Executed: true. Duration: 12ms.
+2024-12-23 19:43:18.805 [info] Extension signature verification result for ftsamoyed.theme-pink-cat-boo: UnknownError. Executed: true. Duration: 16ms.
+2024-12-23 19:43:18.805 [info] Extension signature verification result for homerotto.themin: UnknownError. Executed: true. Duration: 21ms.
+2024-12-23 19:43:18.840 [info] Extension signature verification result for mebrahtom.plantumlpreviewer: UnknownError. Executed: true. Duration: 13ms.
+2024-12-23 19:43:18.840 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Executed: true. Duration: 18ms.
+2024-12-23 19:43:18.841 [info] Extension signature verification result for bradlc.vscode-tailwindcss: UnknownError. Executed: true. Duration: 24ms.
+2024-12-23 19:43:18.841 [info] Extension signature verification result for codesacha.synthwave--2077: UnknownError. Executed: true. Duration: 29ms.
+2024-12-23 19:43:18.841 [info] Extension signature verification result for chakrounanas.turbo-console-log: UnknownError. Executed: true. Duration: 35ms.
+2024-12-23 19:43:18.869 [info] Extension signature verification result for dbaeumer.vscode-eslint: UnknownError. Executed: true. Duration: 33ms.
+2024-12-23 19:43:18.869 [info] Extension signature verification result for petli-full.awk-vscode: UnknownError. Executed: true. Duration: 38ms.
+2024-12-23 19:43:18.879 [info] Extension signature verification result for ms-python.isort: UnknownError. Executed: true. Duration: 14ms.
+2024-12-23 19:43:18.879 [info] Extension signature verification result for prisma.prisma: UnknownError. Executed: true. Duration: 18ms.
+2024-12-23 19:43:18.879 [info] Extension signature verification result for cschlosser.doxdocgen: UnknownError. Executed: true. Duration: 22ms.
+2024-12-23 19:43:18.879 [info] Extension signature verification result for ecmel.vscode-html-css: UnknownError. Executed: true. Duration: 25ms.
+2024-12-23 19:43:18.879 [info] Extension signature verification result for alfredbirk.tailwind-documentation: UnknownError. Executed: true. Duration: 30ms.
+2024-12-23 19:43:18.879 [info] Extension signature verification result for bradgashler.htmltagwrap: UnknownError. Executed: true. Duration: 34ms.
+2024-12-23 19:43:18.880 [info] Extension signature verification result for mechatroner.rainbow-csv: UnknownError. Executed: true. Duration: 38ms.
+2024-12-23 19:43:18.885 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 10ms.
+2024-12-23 19:43:18.885 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 15ms.
+2024-12-23 19:43:18.894 [info] Extension signature verification result for golang.go: UnknownError. Executed: true. Duration: 14ms.
+2024-12-23 19:43:18.895 [info] Extension signature verification result for rust-lang.rust-analyzer: UnknownError. Executed: true. Duration: 9ms.
+2024-12-23 19:43:18.896 [info] Extension signature verification result for grapecity.gc-excelviewer: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:18.916 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/magicshochu.grep-1.1.1: magicshochu.grep
+2024-12-23 19:43:18.924 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ecmel.vscode-html-css-2.0.11: ecmel.vscode-html-css
+2024-12-23 19:43:18.927 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ftsamoyed.theme-pink-cat-boo-1.3.0: ftsamoyed.theme-pink-cat-boo
+2024-12-23 19:43:19.028 [info] Renamed to /home/arkochan/.vscode/extensions/magicshochu.grep-1.1.1
+2024-12-23 19:43:19.029 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/njqdev.vscode-python-typehint-1.5.1: njqdev.vscode-python-typehint
+2024-12-23 19:43:19.030 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/chakrounanas.turbo-console-log-2.10.5: chakrounanas.turbo-console-log
+2024-12-23 19:43:19.105 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/homerotto.themin-2.3.1: homerotto.themin
+2024-12-23 19:43:19.106 [info] Renamed to /home/arkochan/.vscode/extensions/ecmel.vscode-html-css-2.0.11
+2024-12-23 19:43:19.106 [info] Renamed to /home/arkochan/.vscode/extensions/ftsamoyed.theme-pink-cat-boo-1.3.0
+2024-12-23 19:43:19.184 [info] Renamed to /home/arkochan/.vscode/extensions/njqdev.vscode-python-typehint-1.5.1
+2024-12-23 19:43:19.255 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vmware.vscode-boot-dev-pack-0.2.1: vmware.vscode-boot-dev-pack
+2024-12-23 19:43:19.257 [info] Renamed to /home/arkochan/.vscode/extensions/chakrounanas.turbo-console-log-2.10.5
+2024-12-23 19:43:19.280 [info] Extension signature verification result for formulahendry.code-runner: UnknownError. Executed: true. Duration: 14ms.
+2024-12-23 19:43:19.282 [info] Extension signature verification result for tshino.kb-macro: UnknownError. Executed: true. Duration: 11ms.
+2024-12-23 19:43:19.295 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-12-23 19:43:19.370 [info] Renamed to /home/arkochan/.vscode/extensions/homerotto.themin-2.3.1
+2024-12-23 19:43:19.392 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/mebrahtom.plantumlpreviewer-0.6.0: mebrahtom.plantumlpreviewer
+2024-12-23 19:43:19.396 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/tshino.kb-macro-0.13.23: tshino.kb-macro
+2024-12-23 19:43:19.450 [info] Renamed to /home/arkochan/.vscode/extensions/vmware.vscode-boot-dev-pack-0.2.1
+2024-12-23 19:43:19.528 [info] Renamed to /home/arkochan/.vscode/extensions/mebrahtom.plantumlpreviewer-0.6.0
+2024-12-23 19:43:19.529 [info] Renamed to /home/arkochan/.vscode/extensions/tshino.kb-macro-0.13.23
+2024-12-23 19:43:19.529 [info] Renamed to /home/arkochan/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-12-23 19:43:19.555 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/golang.go-0.44.0: golang.go
+2024-12-23 19:43:19.577 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.17: bradlc.vscode-tailwindcss
+2024-12-23 19:43:19.585 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/mechatroner.rainbow-csv-3.13.0: mechatroner.rainbow-csv
+2024-12-23 19:43:19.616 [info] Extension signature verification result for eamodio.gitlens: UnknownError. Executed: true. Duration: 8ms.
+2024-12-23 19:43:19.655 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/bradgashler.htmltagwrap-1.0.0: bradgashler.htmltagwrap
+2024-12-23 19:43:19.678 [info] Renamed to /home/arkochan/.vscode/extensions/golang.go-0.44.0
+2024-12-23 19:43:19.710 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/codesacha.synthwave--2077-0.6.0: codesacha.synthwave--2077
+2024-12-23 19:43:19.754 [info] Renamed to /home/arkochan/.vscode/extensions/mechatroner.rainbow-csv-3.13.0
+2024-12-23 19:43:19.755 [info] Renamed to /home/arkochan/.vscode/extensions/bradgashler.htmltagwrap-1.0.0
+2024-12-23 19:43:19.755 [info] Renamed to /home/arkochan/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.17
+2024-12-23 19:43:19.771 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2024-12-23 19:43:19.783 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/grapecity.gc-excelviewer-4.2.62: grapecity.gc-excelviewer
+2024-12-23 19:43:19.787 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/figma.figma-vscode-extension-0.4.0: figma.figma-vscode-extension
+2024-12-23 19:43:19.829 [info] Renamed to /home/arkochan/.vscode/extensions/codesacha.synthwave--2077-0.6.0
+2024-12-23 19:43:19.879 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2024-12-23 19:43:19.918 [info] Renamed to /home/arkochan/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2024-12-23 19:43:19.918 [info] Renamed to /home/arkochan/.vscode/extensions/grapecity.gc-excelviewer-4.2.62
+2024-12-23 19:43:19.918 [info] Renamed to /home/arkochan/.vscode/extensions/figma.figma-vscode-extension-0.4.0
+2024-12-23 19:43:20.073 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/jebbs.plantuml-2.18.1: jebbs.plantuml
+2024-12-23 19:43:20.100 [info] Renamed to /home/arkochan/.vscode/extensions/formulahendry.code-runner-0.12.2
+2024-12-23 19:43:20.108 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-python.isort-2023.10.1: ms-python.isort
+2024-12-23 19:43:20.240 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/rust-lang.rust-analyzer-0.3.2228-linux-x64: rust-lang.rust-analyzer
+2024-12-23 19:43:20.249 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/eamodio.gitlens-16.1.1: eamodio.gitlens
+2024-12-23 19:43:20.356 [info] Renamed to /home/arkochan/.vscode/extensions/jebbs.plantuml-2.18.1
+2024-12-23 19:43:20.356 [info] Renamed to /home/arkochan/.vscode/extensions/ms-python.isort-2023.10.1
+2024-12-23 19:43:20.440 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2024-12-23 19:43:20.511 [info] Renamed to /home/arkochan/.vscode/extensions/rust-lang.rust-analyzer-0.3.2228-linux-x64
+2024-12-23 19:43:20.511 [info] Renamed to /home/arkochan/.vscode/extensions/eamodio.gitlens-16.1.1
+2024-12-23 19:43:20.550 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/cschlosser.doxdocgen-1.4.0: cschlosser.doxdocgen
+2024-12-23 19:43:20.652 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/petli-full.awk-vscode-0.1.1: petli-full.awk-vscode
+2024-12-23 19:43:20.753 [info] Renamed to /home/arkochan/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2024-12-23 19:43:20.753 [info] Renamed to /home/arkochan/.vscode/extensions/cschlosser.doxdocgen-1.4.0
+2024-12-23 19:43:20.812 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/prisma.prisma-6.1.0: prisma.prisma
+2024-12-23 19:43:20.839 [info] Renamed to /home/arkochan/.vscode/extensions/petli-full.awk-vscode-0.1.1
+2024-12-23 19:43:21.034 [info] Renamed to /home/arkochan/.vscode/extensions/prisma.prisma-6.1.0
+2024-12-23 19:43:21.245 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/pranaygp.vscode-css-peek-4.4.1: pranaygp.vscode-css-peek
+2024-12-23 19:43:21.327 [info] Extension signature verification result for redhat.vscode-community-server-connector: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:21.370 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:21.447 [info] Renamed to /home/arkochan/.vscode/extensions/pranaygp.vscode-css-peek-4.4.1
+2024-12-23 19:43:21.466 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-python.python-2024.22.0-linux-x64: ms-python.python
+2024-12-23 19:43:21.651 [info] Renamed to /home/arkochan/.vscode/extensions/ms-python.python-2024.22.0-linux-x64
+2024-12-23 19:43:23.221 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/alfredbirk.tailwind-documentation-0.1.15: alfredbirk.tailwind-documentation
+2024-12-23 19:43:23.377 [info] Renamed to /home/arkochan/.vscode/extensions/alfredbirk.tailwind-documentation-0.1.15
+2024-12-23 19:43:25.170 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/redhat.vscode-community-server-connector-0.26.19: redhat.vscode-community-server-connector
+2024-12-23 19:43:25.315 [info] Renamed to /home/arkochan/.vscode/extensions/redhat.vscode-community-server-connector-0.26.19
+2024-12-23 19:43:26.012 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2024-12-23 19:43:26.946 [info] Renamed to /home/arkochan/.vscode/extensions/ms-python.vscode-pylance-2024.12.1
+2024-12-23 19:43:26.956 [info] Extension signature verification result for redhat.vscode-xml: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:27.034 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/arkochan/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arkochan/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-23 19:43:27.281 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/redhat.vscode-xml-0.27.2-linux-x64: redhat.vscode-xml
+2024-12-23 19:43:27.368 [info] Renamed to /home/arkochan/.vscode/extensions/redhat.vscode-xml-0.27.2-linux-x64
+2024-12-23 19:43:31.750 [info] Extension signature verification result for vmware.vscode-spring-boot: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 19:43:33.023 [info] Extension signature verification result for redhat.java: UnknownError. Executed: true. Duration: 9ms.
+2024-12-23 19:43:33.158 [info] Extension signature verification result for ms-vscode.cpptools: UnknownError. Executed: true. Duration: 7ms.
+2024-12-23 19:43:33.671 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vmware.vscode-spring-boot-1.60.2024122100: vmware.vscode-spring-boot
+2024-12-23 19:43:33.810 [info] Renamed to /home/arkochan/.vscode/extensions/vmware.vscode-spring-boot-1.60.2024122100
+2024-12-23 19:43:34.001 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/redhat.java-1.38.0-linux-x64: redhat.java
+2024-12-23 19:43:34.212 [info] Renamed to /home/arkochan/.vscode/extensions/redhat.java-1.38.0-linux-x64
+2024-12-23 19:43:34.580 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/ms-vscode.cpptools-1.23.2-linux-x64: ms-vscode.cpptools
+2024-12-23 19:43:34.730 [info] Renamed to /home/arkochan/.vscode/extensions/ms-vscode.cpptools-1.23.2-linux-x64
+2024-12-23 19:43:34.888 [info] Extension installed successfully: hassanoof.theme vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.888 [info] Extension installed successfully: alliemartz.zelda-totk vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: ms-toolsai.jupyter-keymap vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: hwencc.html-tag-wrapper vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: wollacebuarque.tailwind-theme vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: afmicc.getterandsettergenerator vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: plibither8.remove-comments vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: player0.bocchi-the-rock vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: tauri-apps.tauri-vscode vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: jeff-hykin.better-cpp-syntax vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: github.github-vscode-theme vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: vscjava.vscode-java-dependency vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: divyanshuagrawal.competitive-programming-helper vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: xen.ccpp-theme vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: vscjava.vscode-spring-initializr vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: vscjava.vscode-spring-boot-dashboard vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.889 [info] Extension installed successfully: vscjava.vscode-java-debug vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: lakshits11.neon-city vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: vscjava.vscode-java-test vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode-remote.remote-wsl vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode.cpptools-themes vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: rangav.vscode-thunder-client vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: github.vscode-pull-request-github vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: vscjava.vscode-java-pack vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: thebromo.bromium vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode.makefile-tools vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: reditorsupport.r vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: twxs.cmake vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-vscode.remote-server vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: dsznajder.es7-react-js-snippets vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: github.codespaces vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: vscjava.vscode-maven vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.890 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: github.copilot vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: ms-vsliveshare.vsliveshare vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: wallabyjs.console-ninja vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: oderwat.indent-rainbow vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: redhat.vscode-rsp-ui vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: magicshochu.grep vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: ftsamoyed.theme-pink-cat-boo vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: njqdev.vscode-python-typehint vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: chakrounanas.turbo-console-log vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: homerotto.themin vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: vmware.vscode-boot-dev-pack vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: mebrahtom.plantumlpreviewer vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: tshino.kb-macro vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: golang.go vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: mechatroner.rainbow-csv vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: bradgashler.htmltagwrap vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.891 [info] Extension installed successfully: codesacha.synthwave--2077 vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.892 [info] Extension installed successfully: grapecity.gc-excelviewer vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.892 [info] Extension installed successfully: figma.figma-vscode-extension vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.892 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.892 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.892 [info] Extension installed successfully: jebbs.plantuml vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.892 [info] Extension installed successfully: ms-python.isort vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: cschlosser.doxdocgen vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: petli-full.awk-vscode vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: prisma.prisma vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: pranaygp.vscode-css-peek vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: alfredbirk.tailwind-documentation vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: redhat.vscode-community-server-connector vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: redhat.vscode-xml vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: vmware.vscode-spring-boot vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: redhat.java vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 19:43:34.893 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json

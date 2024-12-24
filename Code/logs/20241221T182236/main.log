@@ -1,0 +1,11 @@
+2024-12-21 18:22:36.963 [info] update#setState idle
+2024-12-21 18:22:56.904 [warning] [perf] profiling STARTED 8c9e0682-180a-4e01-bb49-9edf94485b8c
+2024-12-21 18:23:01.920 [warning] [perf] profiling DONE 8c9e0682-180a-4e01-bb49-9edf94485b8c
+2024-12-21 18:23:02.039 [warning] [perf] profiling STARTED 8c9e0682-180a-4e01-bb49-9edf94485b8c
+2024-12-21 18:23:06.965 [info] update#setState checking for updates
+2024-12-21 18:23:07.056 [warning] [perf] profiling DONE 8c9e0682-180a-4e01-bb49-9edf94485b8c
+2024-12-21 18:23:07.062 [info] update#setState idle
+2024-12-21 18:23:07.175 [warning] [perf] profiling STARTED 8c9e0682-180a-4e01-bb49-9edf94485b8c
+2024-12-21 18:23:12.199 [warning] [perf] profiling DONE 8c9e0682-180a-4e01-bb49-9edf94485b8c
+2024-12-21 19:23:06.967 [info] update#setState checking for updates
+2024-12-21 19:23:07.364 [info] update#setState idle

@@ -1,0 +1,18 @@
+2024-12-23 03:29:13.457 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-12-23 03:29:13.706 [info] Installing extension: catppuccin.catppuccin-vsc {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 03:29:17.113 [info] Extension signature verification result for catppuccin.catppuccin-vsc: UnknownError. Executed: true. Duration: 467ms.
+2024-12-23 03:29:17.123 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/catppuccin.catppuccin-vsc-3.16.0: catppuccin.catppuccin-vsc
+2024-12-23 03:29:17.304 [info] Renamed to /home/arkochan/.vscode/extensions/catppuccin.catppuccin-vsc-3.16.0
+2024-12-23 03:29:17.488 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 03:29:37.037 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2024-12-23 03:29:37.095 [info] Installing extension: catppuccin.catppuccin-vsc-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 03:29:38.170 [info] Extension signature verification result for catppuccin.catppuccin-vsc-icons: UnknownError. Executed: true. Duration: 5ms.
+2024-12-23 03:29:38.703 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/catppuccin.catppuccin-vsc-icons-1.17.0: catppuccin.catppuccin-vsc-icons
+2024-12-23 03:29:38.934 [info] Renamed to /home/arkochan/.vscode/extensions/catppuccin.catppuccin-vsc-icons-1.17.0
+2024-12-23 03:29:39.119 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json
+2024-12-23 03:32:00.889 [info] Getting Manifest... vscodevim.vim
+2024-12-23 03:32:01.004 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json","path":"/home/arkochan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-23 03:32:02.097 [info] Extension signature verification result for vscodevim.vim: UnknownError. Executed: true. Duration: 6ms.
+2024-12-23 03:32:02.115 [info] Extracted extension to file:///home/arkochan/.vscode/extensions/vscodevim.vim-1.29.0: vscodevim.vim
+2024-12-23 03:32:02.298 [info] Renamed to /home/arkochan/.vscode/extensions/vscodevim.vim-1.29.0
+2024-12-23 03:32:02.484 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/arkochan/.vscode/extensions/extensions.json

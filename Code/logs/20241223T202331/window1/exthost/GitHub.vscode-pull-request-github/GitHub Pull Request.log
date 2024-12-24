@@ -1,0 +1,15 @@
+2024-12-23 20:23:37.505 [warning] /home/arkochan/.ssh/config: ENOENT: no such file or directory, open '/home/arkochan/.ssh/config'
+2024-12-23 20:23:37.505 [info] Activation> Extension version: 0.102.0
+2024-12-23 20:23:38.432 [info] Looking for git repository
+2024-12-23 20:23:38.432 [info] Found 0 repositories during activation
+2024-12-23 20:23:38.432 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-23 20:23:38.434 [info] Registering git provider
+2024-12-23 20:23:38.434 [info] Review+0> Validate state in progress
+2024-12-23 20:23:38.434 [info] Review+0> Validating state...
+2024-12-23 20:23:38.444 [info] Found GitHub remote for folder /home/arkochan/Repositories/kv-recorder
+2024-12-23 20:23:38.444 [info] Trying to use globalState for assignableUsers.
+2024-12-23 20:23:38.458 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-23 20:23:38.458 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-23 20:23:38.460 [info] GlobalState does not exist for assignableUsers.
+2024-12-23 20:23:39.944 [info] Repo state for file:///home/arkochan/Repositories/kv-recorder changed.
+2024-12-23 20:23:39.944 [info] Repo file:///home/arkochan/Repositories/kv-recorder has already been setup.

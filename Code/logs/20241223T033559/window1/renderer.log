@@ -1,0 +1,6 @@
+2024-12-23 03:36:00.902 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-23 03:36:00.902 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-23 03:36:00.902 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-23 03:36:01.094 [info] Started local extension host with pid 28803.
+2024-12-23 03:36:01.812 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2024-12-23 03:36:03.720 [info] [perf] Render performance baseline is 13ms

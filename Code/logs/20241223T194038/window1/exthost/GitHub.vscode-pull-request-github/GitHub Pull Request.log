@@ -1,0 +1,16 @@
+2024-12-23 19:43:37.198 [warning] /home/arkochan/.ssh/config: ENOENT: no such file or directory, open '/home/arkochan/.ssh/config'
+2024-12-23 19:43:37.198 [info] Activation> Extension version: 0.102.0
+2024-12-23 19:43:37.340 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/arkochan/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp'
+2024-12-23 19:43:37.569 [info] Looking for git repository
+2024-12-23 19:43:37.569 [info] Found 0 repositories during activation
+2024-12-23 19:43:37.569 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-23 19:43:37.571 [info] Registering git provider
+2024-12-23 19:43:37.571 [info] Review+0> Validate state in progress
+2024-12-23 19:43:37.571 [info] Review+0> Validating state...
+2024-12-23 19:43:38.174 [info] Found GitHub remote for folder /home/arkochan/Repositories/kv-recorder
+2024-12-23 19:43:38.175 [info] Trying to use globalState for assignableUsers.
+2024-12-23 19:43:38.190 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-12-23 19:43:38.190 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-12-23 19:43:38.209 [info] GlobalState does not exist for assignableUsers.
+2024-12-23 19:43:40.662 [info] Repo state for file:///home/arkochan/Repositories/kv-recorder changed.
+2024-12-23 19:43:40.662 [info] Repo file:///home/arkochan/Repositories/kv-recorder has already been setup.

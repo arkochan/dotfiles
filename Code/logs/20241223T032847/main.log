@@ -1,0 +1,11 @@
+2024-12-23 03:28:48.451 [info] update#setState idle
+2024-12-23 03:29:17.386 [info] update#setState checking for updates
+2024-12-23 03:29:17.484 [info] update#setState idle
+2024-12-23 03:30:18.013 [warning] [perf] profiling STARTED 724830f9-377c-48f3-ab84-56f0f6ea5ef8
+2024-12-23 03:30:23.032 [warning] [perf] profiling DONE 724830f9-377c-48f3-ab84-56f0f6ea5ef8
+2024-12-23 03:30:23.177 [warning] [perf] profiling STARTED 724830f9-377c-48f3-ab84-56f0f6ea5ef8
+2024-12-23 03:30:28.198 [warning] [perf] profiling DONE 724830f9-377c-48f3-ab84-56f0f6ea5ef8
+2024-12-23 03:30:28.333 [warning] [perf] profiling STARTED 724830f9-377c-48f3-ab84-56f0f6ea5ef8
+2024-12-23 03:30:33.350 [warning] [perf] profiling DONE 724830f9-377c-48f3-ab84-56f0f6ea5ef8
+2024-12-23 03:34:23.284 [info] Extension host with pid 27597 exited with code: 0, signal: unknown.
+2024-12-23 03:34:23.375 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 27614]: crashed with code 15 and reason 'killed'

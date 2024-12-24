@@ -1,0 +1,41 @@
+2024-12-21 18:22:40.558 [info] [main] Log level: Info
+2024-12-21 18:22:40.558 [info] [main] Validating found git in: "git"
+2024-12-21 18:22:40.558 [info] [main] Using git "2.47.1" from "git"
+2024-12-21 18:22:40.558 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-21 18:22:40.558 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-21 18:22:40.558 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-12-21 18:22:40.562 [info] [Model][openRepository] Opened repository: /home/arkochan/Repositories/kv-recorder
+2024-12-21 18:22:40.569 [info] > git config --get commit.template [3ms]
+2024-12-21 18:22:40.570 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-21 18:22:40.590 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-21 18:22:40.590 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-12-21 18:22:40.600 [info] > git status -z -uall [4ms]
+2024-12-21 18:22:40.600 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-21 18:22:40.601 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-21 18:22:40.602 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-21 18:22:40.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-12-21 18:22:40.614 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-12-21 18:22:40.615 [warning] [Git][config] git config failed: Failed to execute git
+2024-12-21 18:22:40.618 [info] > git config --get commit.template [8ms]
+2024-12-21 18:22:40.621 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-12-21 18:22:40.624 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-12-21 18:22:40.629 [info] > git status -z -uall [3ms]
+2024-12-21 18:22:40.629 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-12-21 18:22:40.629 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-12-21 18:22:40.629 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-12-21 18:22:40.637 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-12-21 18:22:40.640 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2024-12-21 18:22:40.644 [info] > git diff --name-status -z --diff-filter=ADMR 861e539c07cfdb148f52bd05d0668e90b566ad20...refs/remotes/origin/main [4ms]
+2024-12-21 18:22:40.645 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2024-12-21 18:22:40.648 [info] > git diff --name-status -z --diff-filter=ADMR 861e539c07cfdb148f52bd05d0668e90b566ad20...refs/remotes/origin/main [1ms]
+2024-12-21 18:22:41.073 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-21 18:22:46.784 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-21 18:22:54.527 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-21 18:22:57.142 [info] > git show --textconv :src/app/recorder/dulnan.vue [4ms]
+2024-12-21 18:22:57.142 [info] > git ls-files --stage -- /home/arkochan/Repositories/kv-recorder/src/app/recorder/dulnan.vue [1ms]
+2024-12-21 18:23:11.636 [info] > git show --textconv :src/app/recorder/dulnan.vue [6ms]
+2024-12-21 18:23:11.636 [info] > git ls-files --stage -- /home/arkochan/Repositories/kv-recorder/src/app/recorder/dulnan.vue [2ms]
+2024-12-21 18:23:14.798 [info] > git blame --root --incremental 861e539c07cfdb148f52bd05d0668e90b566ad20 -- /home/arkochan/Repositories/kv-recorder/src/app/recorder/dulnan.vue [1ms]
+2024-12-21 18:23:14.798 [info] fatal: no such path src/app/recorder/dulnan.vue in 861e539c07cfdb148f52bd05d0668e90b566ad20
+2024-12-21 18:23:39.808 [info] > git show --textconv :src/app/recorder/dulnan.vue [5ms]
+2024-12-21 18:23:39.809 [info] > git ls-files --stage -- /home/arkochan/Repositories/kv-recorder/src/app/recorder/dulnan.vue [1ms]
