@@ -10,10 +10,11 @@ for item in *; do
     continue
   fi
 
-  # Create a symlink in the target directory
-  # ln -sv "$(pwd)/$item" "$target_dir/"
-  # DEMO
-  echo "ln -sv" "$(pwd)/$item" "$target_dir/"
+  echo "Execute this command?" "ln -sv" "$(pwd)/$item" "$target_dir/"
+  read -r -p "Are you sure? [Y/n] " response
+  if $response; then
+     ln -sv "$(pwd)/$item" "$target_dir/"
+
 done
 
-echo "All files have been symlinked to $target_dir."
+echo "Done!"
