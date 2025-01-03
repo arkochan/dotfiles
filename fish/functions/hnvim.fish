@@ -12,7 +12,7 @@ function hnvim
 
 
     # Pipe the unique directories into fzf
-    set selected_dir (tac $history_file | awk '!seen[$0]++' | tac | fzf --prompt="Select directory: " --height=20 --reverse)
+    set selected_dir (tac $history_file | awk '!seen[$0]++' | fzf --prompt="Select directory: " --height=20 --reverse )
 
     # Check if a directory was selected
     if test -n "$selected_dir"
