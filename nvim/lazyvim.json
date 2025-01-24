@@ -1,24 +1,17 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.coding.luasnip",
-    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.ai.copilot",
+    "lazyvim.plugins.extras.ai.copilot-chat",
+    "lazyvim.plugins.extras.coding.blink",
     "lazyvim.plugins.extras.editor.dial",
-    "lazyvim.plugins.extras.editor.leap",
     "lazyvim.plugins.extras.editor.telescope",
-    "lazyvim.plugins.extras.lang.clangd",
     "lazyvim.plugins.extras.lang.go",
-    "lazyvim.plugins.extras.lang.markdown",
-    "lazyvim.plugins.extras.lang.php",
-    "lazyvim.plugins.extras.lang.python",
-    "lazyvim.plugins.extras.lang.sql",
-    "lazyvim.plugins.extras.lang.toml",
-    "lazyvim.plugins.extras.lang.vue",
-    "lazyvim.plugins.extras.ui.mini-animate",
-    "lazyvim.plugins.extras.util.dot"
+    "lazyvim.plugins.extras.lang.json",
+    "lazyvim.plugins.extras.lang.tailwind",
+    "lazyvim.plugins.extras.lang.typescript"
   ],
   "news": {
-    "NEWS.md": "10960",
-    "doc/news.txt": "24450"
+    "NEWS.md": "10960"
   },
   "version": 7
 }

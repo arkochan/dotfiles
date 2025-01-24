@@ -1,7 +1,11 @@
 return {
-	{
-		vim.g.colorscheme_repo,
-		name = vim.g.colorscheme_name,
-		priority = 1000,
-	},
+
+  { "dasupradyumna/midnight.nvim", lazy = false, priority = 1000, name = "midnight" },
+
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "midnight",
+    },
+  },
 }
