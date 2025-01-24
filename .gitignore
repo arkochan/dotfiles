@@ -1,5 +1,6 @@
-nvim_new/lazy-lock.json
-nvim_new/lazyvim.json
+nvim/lazy-lock.json
+nvim/lazyvim.json
+gh/hosts.yml
 fish/fish_variables
 
 
