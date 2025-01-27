@@ -1,5 +1,7 @@
 function fdir --wraps=cd --description 'cd into directory with with interactive fzf'
-    set fzf_query $(fzf --walker=dir --walker-root=$HOME -q$argv)
+    # searches for type dir type links include Hidden .
+    set fzf_query $(fd -t d -t l -H . $HOME | fzf -q$argv)
+
     if test -n "$fzf_query"
         cd $fzf_query
     else
