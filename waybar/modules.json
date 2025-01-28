@@ -81,9 +81,7 @@
   },
   // Clock
   "clock": {
-    // "timezone": "America/New_York",
-    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-    "format-alt": "{:%Y-%m-%d}"
+    "format": "{:%A, %B %d, %Y 🕒 %R}",
   },
   // System
   "custom/system": {
@@ -129,7 +127,7 @@
   // Network
   "network": {
     "format": "{ifname}",
-    "format-wifi": "   {signalStrength}%",
+    "format-wifi": "   {essid}",
     "format-ethernet": "",
     //  "format-ethernet": "  {ipaddr}",
     "format-disconnected": "Not connected", //An empty format will hide the module.
@@ -137,7 +135,7 @@
     "tooltip-format-wifi": "   {essid} ({signalStrength}%)",
     "tooltip-format-ethernet": "  {ifname} ({ipaddr}/{cidr})",
     "tooltip-format-disconnected": "Disconnected",
-    "max-length": 50,
+    "max-length": 100,
     "on-click": "alacritty -e nmtui"
   },
   // Battery
