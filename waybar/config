@@ -16,11 +16,11 @@
     ],    
     "modules-left": [
         "custom/appmenu",
-        "group/quicklinks",
-        "hyprland/window"
+//        "group/quicklinks",
+        "hyprland/workspaces",
+        "hyprland/window",
     ],
     "modules-center": [
-        "hyprland/workspaces"
     ],
     "modules-right": [
         
