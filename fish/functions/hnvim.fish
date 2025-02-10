@@ -17,6 +17,7 @@ function hnvim
     # Check if a directory was selected
     if test -n "$selected_dir"
         # Execute nvim with the selected directory
+        cd $selected_dir
         nvim $selected_dir
     end
 end
