@@ -17,20 +17,33 @@ return {
         functions = { -- The string substituition function to replace [KEYWORD]s
           {
             keyword = "REACT_IMPORT", -- When found [REACT_IMPORT]
-            execute = function(file_name_arg, calculated_path, last_active_buffer_path, last_active_buffer_extension) -- substitute with this
+            execute = function(args)
+              -- vim.notify(args.file_name)
+              -- vim.notify(args.file_name)
+              -- vim.notify(args.file_path)
+              -- vim.notify(args.last_active_buffer_path)
+              -- vim.notify(args.file_extension)
+              print("args", args)
               -- The fn argument should rather be given in a table as substitute function arguments
               -- user would use necessary args
               -- this would be called after path has been calculated
               -- :Boil file_name_arg
-              return "import React from 'react';"
+              return "import React from 'react';\nimport {cn} from '@/lib/utils/cn';"
             end,
           },
           {
             keyword = "COMPONENT_NAME", -- When found [COMPONENT_NAME]
-            execute = function(file_name_arg, calculated_path, last_active_buffer_path, last_active_buffer_extension) -- This is executed and substitutes the [COMPONENT_NAME]
-              return file_name_arg:gsub("(%l)(%w*)", function(first, rest)
-                return first:upper() .. rest
-              end)
+
+            -- placeholder_fn_arg = {
+            -- 	file_name = name,
+            -- 	file_path = path,
+            -- 	last_active_buffer_path = current_file_path,
+            -- 	file_extension = file_ext,
+            execute = function(args)
+              -- vim.notify(args.file_name_arg)
+              -- vim.notify(args)
+              local file_name_arg_first_char_capitalized = args.file_name:gsub("^.", string.upper)
+              return file_name_arg_first_char_capitalized
             end,
           },
         },
@@ -54,7 +67,7 @@ return {
                 return first:upper() .. rest .. "." .. extension
               end)
             end,
-            snippet = "[REACT_IMPORT]\n\nexport default function [COMPONENT_NAME]() {\n  return <div>[COMPONENT_NAME]</div>;\n}",
+            snippet = '[REACT_IMPORT]\n\nexport default function [COMPONENT_NAME]({className}:{className?:string}) {\n  return (<div className = {cn("",className)} >[COMPONENT_NAME]</div>);\n}',
           },
           {
             trigger = "dict",
@@ -72,7 +85,7 @@ return {
         functions = {
           {
             keyword = "GO_PACKAGE_NAME",
-            execute = function(file_name_arg, calculated_path, last_active_buffer_path, last_active_buffer_extension)
+            execute = function(args)
               -- Get the current buffer's lines
               local lines = vim.api.nvim_buf_get_lines(0, 0, -1, false)
 
@@ -125,8 +138,8 @@ return {
           },
           {
             keyword = "FILE_NAME", -- Default function for file name
-            execute = function(file_name_arg, calculated_path, last_active_buffer_path, last_active_buffer_extension)
-              return file_name_arg
+            execute = function(args)
+              return args.file_name .. ".go"
             end,
           },
         },
