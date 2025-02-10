@@ -1,0 +1,19 @@
+configuration {
+  display-drun: "Apps";
+  display-window: "Windows";
+  drun-display-format: "{icon} {name}";
+  font: "JetBrainsMono-Medium";
+  show-icons: true;
+}
+
+@theme "themes/catppuccin.rasi"
+
+
+element {
+  // reduce left padding
+    padding: 12px 20px 12px -2px;
+    background-color: @bg-col;
+    text-color: @fg-col;
+    border-radius: 20px;
+    margin: 5px 5px 5px 5px;
+}
