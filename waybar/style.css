@@ -155,8 +155,9 @@ window#waybar.empty #window {
 #pulseaudio,
 #battery,
 #custom-appmenu,
+#custom-github-contrib,
 #clock {
-  margin-right: 20px;
+  margin-right: 0px;
   font-size: 12px;
   font-weight: bold;
   color: @iconcolor;
@@ -230,7 +231,7 @@ window#waybar.empty #window {
   font-size: 12px;
   color: @textcolor1;
   border-radius: 15px;
-  margin: 10px 7px 10px 0px;
+  margin: 10px 0px 10px 0px;
 }
 
 /* -----------------------------------------------------
@@ -305,6 +306,14 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #battery {
+  background-color: @backgroundlight;
+  font-size: 12px;
+  color: @textcolor2;
+  border-radius: 15px;
+  margin: 10px 15px 10px 0px;
+}
+
+#custom-github-contrib{
   background-color: @backgroundlight;
   font-size: 12px;
   color: @textcolor2;
