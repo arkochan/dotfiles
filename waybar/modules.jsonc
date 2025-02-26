@@ -64,6 +64,11 @@
     "on-scroll-up": "playerctl -p spotify volume .05+",
     "on-scroll-down": "playerctl -p spotify volume .05-"
   },
+  "custom/github-contrib": {
+    "exec": "streak --no-text --no-emoji",
+    "format": "🔥{} 🟢{}",
+    "on-click": "streak --no-text"
+  },
   // Keyboard State
   "keyboard-state": {
     "numlock": true,
@@ -141,7 +146,7 @@
   // Battery
   "battery": {
     "states": {
-      // "good": 95,
+      "good": 95,
       "warning": 30,
       "critical": 15
     },
