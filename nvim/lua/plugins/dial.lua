@@ -117,6 +117,12 @@ return {
       cyclic = true,
     })
 
+    local access_modifier = augend.constant.new({
+      elements = { "private", "public" },
+      word = true,
+      cyclic = true,
+    })
+
     return {
       dials_by_ft = {
         css = "css",
@@ -144,6 +150,7 @@ return {
           capitalized_boolean,
           augend.constant.alias.bool, -- boolean value (true <-> false)
           logical_alias,
+          access_modifier,
         },
         vue = {
           augend.constant.new({ elements = { "let", "const" } }),
