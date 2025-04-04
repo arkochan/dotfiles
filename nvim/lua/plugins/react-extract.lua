@@ -17,7 +17,23 @@ return {
       autoimport_defer_ms = 350,
       local_extract_strategy = "BEFORE",
     })
-    vim.keymap.set({ "v" }, "<Leader>re", require("react-extract").extract_to_new_file)
-    vim.keymap.set({ "v" }, "<Leader>rc", require("react-extract").extract_to_current_file)
   end,
+  keys = {
+    {
+      "<Leader>re",
+      function()
+        require("react-extract").extract_to_new_file()
+      end,
+      mode = { "v" },
+      desc = "Extract to new file",
+    },
+    {
+      "<Leader>rc",
+      function()
+        require("react-extract").extract_to_current_file()
+      end,
+      mode = { "v" },
+      desc = "Extract to current file",
+    },
+  },
 }
