@@ -1,6 +1,11 @@
 function nvim --description 'alias nvim nvim'
 
-    hyprctl dispatch movetoworkspace 2
+    # Store the current workspace in a variable
+    set current_workspace (hyprctl activeworkspace | grep -Po 'workspace ID \d+ \(\K\d+(?=\))')
+
+    # Assume codespace is window 3
+    hyprctl dispatch movetoworkspace 3
+
     # Define the history file
     set history_file ~/.nvim_history
     set nvim_bin $(which nvim)
@@ -15,9 +20,11 @@ function nvim --description 'alias nvim nvim'
             echo (pwd) >>$history_file
         end
         $nvim_bin $argv
+        hyprctl dispatch movetoworkspace $current_workspace
     else
         #put the last line of history file in a variable
         set last_line (tail -n 1 $history_file)
         $nvim_bin $last_line
+        hyprctl dispatch movetoworkspace $current_workspace
     end
 end
