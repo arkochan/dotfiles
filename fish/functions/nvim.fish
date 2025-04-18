@@ -1,5 +1,6 @@
 function nvim --description 'alias nvim nvim'
 
+    hyprctl dispatch movetoworkspace 2
     # Define the history file
     set history_file ~/.nvim_history
     set nvim_bin $(which nvim)
