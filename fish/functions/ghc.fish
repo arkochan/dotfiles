@@ -20,13 +20,15 @@ function ghc
     
     # Show cursor again and clear spinner line
     tput cnorm
-    printf "\r\033[K"
+    # printf "\r\033[K"
     
     # Get the result now that command is done
     if test $exit_code -eq 0
-        set result (printf "\n" | gh copilot suggest --target shell "$argv" | grep -A1 "Suggestion:" | tail -1)
-        echo "✓ Done"
+        # Clear everything printed since last input
+        printf "\r\033[K\033[1A\r\033[K"
+        commandline (wl-paste)
     else
+        printf "\r\033[K"
         echo "✗ Command failed"
     end
 end
