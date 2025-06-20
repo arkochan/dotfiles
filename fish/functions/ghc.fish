@@ -44,4 +44,5 @@ function spinner
         sleep 0.1
         set i (math "$i % 10 + 1")
     end
+    printf "\r\033[K\033[1A\r\033[K"
 end

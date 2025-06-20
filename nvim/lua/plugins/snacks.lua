@@ -13,7 +13,7 @@ return {
         },
       },
       scope = {
-        enabled = true, -- enable highlighting the current scope
+        enabled = false, -- enable highlighting the current scope
         priority = 200,
         char = {
           corner_top = "x",
@@ -22,7 +22,7 @@ return {
           -- corner_bottom = "╰",
           horizontal = "─",
           vertical = "│",
-          arrow = ">",
+          arrow = "x",
         },
         underline = true, -- underline the start of the scope
         only_current = false, -- only show scope in the current window
